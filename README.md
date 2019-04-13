@@ -4,9 +4,11 @@ Course curriculum editing and authorship.
 Java AP
 ---
 ### Course Requirements
+---
 
 
-###	Curriculum Outline
+####	Curriculum Outline
+---
 
 	
 
