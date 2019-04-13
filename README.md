@@ -8,7 +8,6 @@ Java AP
 
 
 ####	Curriculum Outline
----
 1. Classes and Objects
 2. Variables
 3. Strings
@@ -23,7 +22,6 @@ Java AP
 12. Search and Sort
 
 ### Optional Objectives
----
 * Exam preparation
 * Multiple-choice
 * Free response practice
