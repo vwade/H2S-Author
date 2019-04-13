@@ -4,8 +4,14 @@ Course curriculum editing and authorship.
 Java AP
 ---
 ### Course Requirements
-------
 
+* Programming Fundamentals
+* Data Structures
+* Logic
+* Algorithms/Problem Solving (and Recursion)
+* Object-Oriented Programming
+* Recursion (part of Algorithms)
+* Software Engineering/Design
 
 ####	Curriculum Outline
 1. Classes and Objects
