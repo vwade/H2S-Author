@@ -1,7 +1,7 @@
 # H2S-Author
 Course curriculum editing and authorship.
 
-## Java AP
+Java AP
 ---
 ### Course Requirements
 
